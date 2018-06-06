@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/webview/webview"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "农发贷",
+    "navigationBarTextStyle": "black"
+  }
+}
